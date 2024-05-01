@@ -1,6 +1,4 @@
 {
-"plus": {
-    "version": 0,
     "name": "sdfgs City Lite",
     "description": "Lite version of the Pixel City theme, a non-animated version. DARK MODE REQUIRED!",
     "authors": [
@@ -128,6 +126,5 @@
         "alpha": 0.5,
         "color": "#081924"
     }
-}
 }
 
