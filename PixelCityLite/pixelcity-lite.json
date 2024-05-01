@@ -1,5 +1,5 @@
 {
-    "name": "Pixel City Lite",
+    "name": "sdfgs City Lite",
     "description": "Lite version of the Pixel City theme, a non-animated version. DARK MODE REQUIRED!",
     "authors": [
         {
@@ -122,7 +122,7 @@
     },
     "spec": 2,
     "background": {
-        "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCityLite/bg.png",
+        "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCityLite/PixelCityLite/dfsgfsd.png",
         "alpha": 0.5,
         "color": "#081924"
     }
